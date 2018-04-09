@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Meal G</string>
+    <string name="selectProductsBtn">Select products</string>
+    <string name="generateMealsBtn">Generate meals</string>
+    <string name="historyBtn">History</string>
+
+
+    <string name="eggsCheckBox">Eggs</string>
+    <string name="flakesCheckBox">Flakes</string>
+    <string name="dairyCheckBox">Dairy products</string>
+    <string name="lunchCheckBox">Lunch:</string>
+    <string name="chickenCheckBox">Chicken</string>
+    <string name="porkCheckBox">Pork</string>
+    <string name="beefCheckBox">Beef</string>
+    <string name="fishCheckBox">Fish</string>
+    <string name="eveningMealCheckBox">Evening meal:</string>
+    <string name="saladCheckBox">Salads</string>
+    <string name="pancakesCheckBox">Pancakes</string>
+    <string name="cerealCheckBox">Cereal</string>
+    <string name="generatedTodayEditText">Today`s</string>
+    <string name="expParentTextView">Parent</string>
+    <string name="breakfastTextView">Breakfast:</string>
+    <string name="lunchTextView">Lunch:</string>
+    <string name="eveningMealTextView">Evening meal:</string>
+    <string name="backBtn">Back</string>
+</resources>
